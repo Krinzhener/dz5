@@ -1,0 +1,42 @@
+
+p {
+    color: yellow;
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+#red {
+    background-color: red;
+    color: white;
+}
+
+div[data-color="green"] {
+    background-color: green;
+    color: white;
+}
+
+section span {
+    color: purple;
+}
+
+ul > li {
+    background-color: lightgray;
+}
+
+div.combo {
+    background-color: orange;
+}
+
+#block.highlight {
+    background-color: pink;
+}
+
+a.link[data-role="nav"] {
+    color: green;
+}
+
+div.wrapper p.note {
+    background-color: lightgreen;
+}
